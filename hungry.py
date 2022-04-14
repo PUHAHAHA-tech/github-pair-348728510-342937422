@@ -1,6 +1,5 @@
 hungry = input("are you hungry? ")
 if hungry == "yes":
-  print("eat a burger")
-  print("drink some milktea")
+  print("get some MCDONALDS AND SOME COCO")
 else:
   print("do your homework")
